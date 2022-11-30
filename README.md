@@ -19,3 +19,8 @@
 - 심리테스트 같은거 만들거에요.
 
 - 사용할 스펙 정리해서 리드미 수정예정
+
+1. 페이지 라우팅
+
+- react-router-dom 을 사용한 페이지 라우팅
+  - `page/index.js` `route/AppRoutes.jsx` 레이어 나눠서 라우팅처리
